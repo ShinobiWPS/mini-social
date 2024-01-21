@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"moalamri.inline-fold",
+		"vivaxy.vscode-conventional-commits",
+		"dbaeumer.vscode-eslint",
+		"ardisaurus.gitflow-actions-sidebar"
+	]
+}
